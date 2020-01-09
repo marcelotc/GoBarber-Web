@@ -3,3 +3,6 @@ yarn add react-router-dom
 yarn add react-history
 
 yarn add reactotron-react-js
+
+yarn add prop-types
+
