@@ -8,7 +8,7 @@ import SignUp from '../pages/SignUp';
 import Dashboard from '../pages/Dashboard';
 import Profile from '../pages/Profile';
 
-export default function () {
+export default function Routes() {
     return (
         <Switch>
             <Route path="/" exact component={SignIn}></Route>
