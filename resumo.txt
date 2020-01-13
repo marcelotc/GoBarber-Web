@@ -23,3 +23,5 @@ yarn add redux redux-saga react-redux reactotron-redux reactotron-redux-saga imm
 yarn add axios
 
 yarn add redux-persist
+
+yarn add react-toastify
